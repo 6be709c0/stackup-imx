@@ -1,8 +1,6 @@
 # Write Up
 
-![Alt text](attachements/header.png)
-
-**Video sample** of the game available [here](./video-sample.mp4)
+https://github.com/6be709c0/stackup-imx/assets/9129639/01cfa9d4-078c-42cd-a7e2-9fc300e63562
 
 **Production environment:** https://stackup-imx.sampleweb3.dev/  
 **Dev environment:** https://stackup-imx.dev.sampleweb3.dev/
