@@ -1,6 +1,6 @@
 # STACKUP INVADERS
 
-![Alt text](attachements/header.png)
+https://github.com/6be709c0/stackup-imx/assets/9129639/01cfa9d4-078c-42cd-a7e2-9fc300e63562
 
 ## Introduction
 
@@ -15,8 +15,6 @@ Access the game [here](https://stackup-imx.dev.sampleweb3.dev/)
 - **Production environment:** https://stackup-imx.sampleweb3.dev/  
 - **Dev environment:** https://stackup-imx.dev.sampleweb3.dev/
 
-Can't play ?
-Checkout the [sample video](./video-sample.mp4)
 ## Features
 
 ### Playable game
