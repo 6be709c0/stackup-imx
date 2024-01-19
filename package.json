@@ -13,7 +13,7 @@
     "@astrojs/check": "^0.3.2",
     "@astrojs/preact": "^3.0.1",
     "@astrojs/tailwind": "^5.0.3",
-    "@imtbl/sdk": "^0.39.5",
+    "@imtbl/sdk": "^0.44.1",
     "@nanostores/preact": "^0.5.0",
     "astro": "^4.0.5",
     "bootstrap": "^5.3.2",

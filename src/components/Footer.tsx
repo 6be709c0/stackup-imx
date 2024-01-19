@@ -20,7 +20,7 @@ const Footer = () => {
                 </a>
               </li>
               <li class="mt-2">
-                <a href="https://github.com/" target="_blank" class="text-gray-400 hover:text-white">
+                <a href="https://github.com/6be709c0/stackup-imx" target="_blank" class="text-gray-400 hover:text-white">
                   Github
                 </a>
               </li>

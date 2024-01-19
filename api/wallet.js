@@ -11,7 +11,9 @@ export const getNFTFromUsers = async (accountAddress, isLocal) => {
     {},
     {
       headers: {
-        "x-immutable-api-key": process.env.IMMUTABLE_API_KEY,
+        "x-immutable-api-key": isLocal
+          ? process.env.IMMUTABLE_API_KEY_LOCAL
+          : process.env.IMMUTABLE_API_KEY,
       },
     }
   );
@@ -70,7 +72,9 @@ export const refreshNFTMetadata = async (tokenId, nft, isLocal, retry = 0) => {
       },
       {
         headers: {
-          "x-immutable-api-key": process.env.IMMUTABLE_API_KEY,
+          "x-immutable-api-key": isLocal
+          ? process.env.IMMUTABLE_API_KEY_LOCAL
+          : process.env.IMMUTABLE_API_KEY,
         },
       }
     );
@@ -81,7 +85,7 @@ export const refreshNFTMetadata = async (tokenId, nft, isLocal, retry = 0) => {
       await wait(1500);
       return await refreshNFTMetadata(tokenId, nft, isLocal, retry + 1);
     }
-    throw e
+    throw e;
   }
 };
 
