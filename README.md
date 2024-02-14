@@ -10,10 +10,10 @@ It's like a space invaders game embellished with web3 using [Immutable](https://
 
 
 **PLAY ON A COMPUTER** (not adapted to small devices)  
-Access the game [here](https://stackup-imx.dev.sampleweb3.dev/)  
+Access the game [here](https://dev.stackup-imx.sampleweb3.dev/)  
 
 - **Production environment:** https://stackup-imx.sampleweb3.dev/  
-- **Dev environment:** https://stackup-imx.dev.sampleweb3.dev/
+- **Dev environment:** https://dev.stackup-imx.sampleweb3.dev/
 
 ## Features
 

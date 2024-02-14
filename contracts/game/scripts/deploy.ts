@@ -6,8 +6,8 @@ async function main() {
   // const owner = "0x5b5d17B6d2E3063cE8478C19011736654d7d0AcB";
   // const name = "Stackup Invader Collection";
   // const symbol = "SIMX";
-  // const baseURI = "https://stackup-imx.dev.sampleweb3.dev/nfts-local/";
-  // const contractURI = "https://stackup-imx.dev.sampleweb3.dev/nfts/contract.json";
+  // const baseURI = "https://dev.stackup-imx.sampleweb3.dev/nfts-local/";
+  // const contractURI = "https://dev.stackup-imx.sampleweb3.dev/nfts/contract.json";
   // const operatorAllowlist = "0x02Ada708Db37470F6707075Cbdc7bD295d30B25E";
   // const receiver = "0x5b5d17B6d2E3063cE8478C19011736654d7d0AcB";
   // const feeNumerator = 1;
@@ -16,8 +16,8 @@ async function main() {
   const owner = "0x5b5d17B6d2E3063cE8478C19011736654d7d0AcB";
   const name = "Stackup Invader Collection";
   const symbol = "SIMX";
-  const baseURI = "https://stackup-imx.dev.sampleweb3.dev/nfts/";
-  const contractURI = "https://stackup-imx.dev.sampleweb3.dev/nfts/contract.json";
+  const baseURI = "https://dev.stackup-imx.sampleweb3.dev/nfts/";
+  const contractURI = "https://dev.stackup-imx.sampleweb3.dev/nfts/contract.json";
   const operatorAllowlist = "0x02Ada708Db37470F6707075Cbdc7bD295d30B25E";
   const receiver = "0x5b5d17B6d2E3063cE8478C19011736654d7d0AcB";
   const feeNumerator = 1;

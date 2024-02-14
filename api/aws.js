@@ -73,7 +73,7 @@ export const uploadJSONToS3Bucket = async (fileName, jsonData) => {
 };
 
 // Example usage
-// const bucketName = "cdn-stackup-imx.dev.sampleweb3.dev";
+// const bucketName = "cdn-dev.stackup-imx.sampleweb3.dev";
 // const fileName = "nfts/1";
 // import NFTs from "./nfts.js";
 

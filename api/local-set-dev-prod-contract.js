@@ -21,8 +21,8 @@ const main = async () => {
   const contractDev = {
     name: "StackUp IMX",
     description: "NFT Collection for the StackUp IMX game",
-    image: "https://stackup-imx.dev.sampleweb3.dev/images/bg.png",
-    external_link: "https://stackup-imx.dev.sampleweb3.dev/",
+    image: "https://dev.stackup-imx.sampleweb3.dev/images/bg.png",
+    external_link: "https://dev.stackup-imx.sampleweb3.dev/",
   };
 
   const contractProd = {

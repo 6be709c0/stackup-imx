@@ -1,7 +1,7 @@
 export default {
   speedy: {
     image:
-      "https://stackup-imx.dev.sampleweb3.dev/images/spaceship_2.png",
+      "https://dev.stackup-imx.sampleweb3.dev/images/spaceship_2.png",
     name: "Speedy",
     description: "A fast spaceship!",
     attributes: [
@@ -17,7 +17,7 @@ export default {
   },
   tank: {
     image:
-      "https://stackup-imx.dev.sampleweb3.dev/images/spaceship_3.png",
+      "https://dev.stackup-imx.sampleweb3.dev/images/spaceship_3.png",
     name: "Tank",
     description: "This spaceship can take damage but is slow",
     attributes: [
@@ -33,7 +33,7 @@ export default {
   },
   gme: {
     image:
-      "https://stackup-imx.dev.sampleweb3.dev/images/spaceship_4.png",
+      "https://dev.stackup-imx.sampleweb3.dev/images/spaceship_4.png",
     name: "GME",
     description: "GME Spaceship from reddit pixel wars",
     attributes: [
@@ -49,7 +49,7 @@ export default {
   },
   laserx3: {
     image:
-      "https://stackup-imx.dev.sampleweb3.dev/images/projectile_2.png",
+      "https://dev.stackup-imx.sampleweb3.dev/images/projectile_2.png",
     name: "Laser (X3)",
     description: "Launch 3 lasers!",
     attributes: [
@@ -69,7 +69,7 @@ export default {
   },
   drs: {
     image:
-      "https://stackup-imx.dev.sampleweb3.dev/images/projectile_3.png",
+      "https://dev.stackup-imx.sampleweb3.dev/images/projectile_3.png",
     name: "DRS",
     description: "A projectile that can go beyond the stock market",
     attributes: [
@@ -89,7 +89,7 @@ export default {
   },
   drsx5: {
     image:
-      "https://stackup-imx.dev.sampleweb3.dev/images/projectile_4.png",
+      "https://dev.stackup-imx.sampleweb3.dev/images/projectile_4.png",
     name: "DRS (X5)",
     description: "You're a Computershare master, DRS is too easy for you",
     attributes: [
